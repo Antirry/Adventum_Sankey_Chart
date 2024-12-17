@@ -2,7 +2,7 @@
 
 Проект создается по таблице **events** в **clickhouse** базе данных.
 
-Выполнялся в качестве задания https://analyticspace.adventum.ru/datacraft И Adventum adventum.ru
+Выполнялся в качестве задания **https://analyticspace.adventum.ru/datacraft** И **Adventum** adventum.ru
 
 ## Что включает себя проект?
 
